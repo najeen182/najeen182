@@ -13,12 +13,6 @@
 
 - ⚡ Fun fact **I deal with fixing pipeline but I can`t fix the pipeline of my own home**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/najeen-nepali-825b5112b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/najeen-nepali-825b5112b" height="30" width="40" /></a>
-<a href="https://instagram.com/najeen182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="najeen182" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@najeen182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="najeen182" height="30" width="40" /></a>
-</p>
 
 
 🛠 **Skills**
