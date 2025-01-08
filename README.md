@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najeen182" alt="najeen182" /></a> </p>
 
-- 🌱 I’m currently learning **VFX Pipeline** 
+- 🌱 I’m currently learning ** Nothing** 
 
 - 💬 Ask me about **Automation, CI/CD, Web Developmet, IaC, Monitoring and Logging, Application Developnebt, SaaS Applications,**
-
-- 📫 How to reach me **najeen.nepali@gmail.com**
 
 - ⚡ Fun fact **I deal with fixing pipeline but I can`t fix the pipeline of my own home**
 
